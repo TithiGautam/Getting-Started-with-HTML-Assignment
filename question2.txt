@@ -1,0 +1,20 @@
+Answer:
+A comment is basically a text note that gives an explanation about the source code.
+Furthermore, they act as documentation in the source code. We include comments to increase the readability of the program.
+Besides, comments make it easy for the programmer to remember the complex things added to the code.
+
+Example:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>We are here to explain the purpose of comments in html</h3>
+    <!-- This is a comment -->
+    <!-- <p>this is paragraph</p> -->
+    <!-- Whatever we write inside this are not displayed in browser -->
+</body>
+</html>

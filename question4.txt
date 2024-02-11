@@ -1,0 +1,23 @@
+Answer:
+
+Tag:
+
+HTML tag is used to define the structure of element of our webpage,tags are usually 
+consist of opening and closing tag,web browser display the content according to the tag we have 
+used.some tag just have  the opening tag not the closing tag.
+
+Example:
+
+<h1> This is heading one tag </h1>
+<p> This is paragraph tag </p>
+Here Above <h1> and <p> are called opening tags whereas </h1> and </p> are called closing tags. 
+ 
+Element:
+
+Element consist of opening tag ,closing tag and the content between the tags.
+Everything from the opening tag to the closing tag is called an element in html.
+
+Example:
+
+<p> This is an element </p>
+This above whole line is called an element.
